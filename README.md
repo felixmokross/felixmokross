@@ -1,6 +1,6 @@
-## Hi, I’m Felix 👋 I build high-quality web applications. 
+## Hi, I’m Felix 👋
 
-I’m Felix Mokross, Lead Web Architect based in Zurich. I build high-quality web applications with a pragmatic, user-first approach. I turn ideas into intuitive, maintainable, and beautifully designed digital products.
+I’m a Lead Web Architect based in Zurich. I build high-quality web applications with a pragmatic, user-first approach. I turn ideas into intuitive, maintainable, and beautifully designed digital products.
 
 You can find my personal website under [fxmk.dev](https://fxmk.dev).
 
