@@ -2,7 +2,7 @@
 
 I’m Felix Mokross, Lead Web Architect based in Zurich. I build high-quality web applications with a pragmatic, user-first approach. I turn ideas into intuitive, maintainable, and beautifully designed digital products.
 
-You can find my personal website under [fxmk.dev](https://fxmk.dev). This is built on [React Router](https://reactrouter.com) and [Payload CMS](https://payloadcms.com).
+You can find my personal website under [fxmk.dev](https://fxmk.dev).
 
 <!--
 **felixmokross/felixmokross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
